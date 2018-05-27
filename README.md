@@ -1,1 +1,1 @@
-# c_project_1.0
+# My awesome C Project in Git
